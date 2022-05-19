@@ -21,13 +21,3 @@ Then you can run the program:
 ```
 python main.py
 ```
-
-## C++
-
-
----
-
-## ToDo
-- [x] C++
-- [x] Python
-- [x] C#
