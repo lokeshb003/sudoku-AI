@@ -10,10 +10,6 @@ The python version of this program uses the [pyside6](https://wiki.qt.io/Qt_for_
 
 <img src="assets/ScreenShot.png" alt="ScreenShot" width="400"/>
 
-|   | Process time |
-| - | ------------ |
-| Normal Sudoku | 0.002s |
-| Hardest Sudoku | 19.7s |
 
 ### Usage
 First install requirements packages:
